@@ -1,8 +1,7 @@
-### Hi there 👋, Mithil Here !!
-<h1 align="center">Hey Everyone👋, Mithil Here!</h1>
-<h3 align="center">A enthusiastic Web Developer/Geek/Programmer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mithil-sri-sai&label=Profile%20views&color=0e75b6&style=plastic" alt="sandeep-v1404" /> </p>
+<h1 align="center">Hey Everyone👋, Mithil Here!</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mithil-sri-sai&label=Profile%20views&color=0e75b6&style=plastic" alt="mithil-sri-sai" /> </p>
 
 
 
